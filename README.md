@@ -1,3 +1,31 @@
+# Small Javascript quizz 
+
+Used to test zustand, this app shows a few questions to the user, and
+evaluates its performance.
+
+![alt text]({3CD162C8-E00F-4D39-9252-48239E7BDD1F}.png)
+
+
+## inspiration
+followed this guide: https://www.youtube.com/watch?v=p2wF2wRjcN0
+
+this repo:
+https://github.com/midudev/aprendiendo-react/blob/master/projects/13-javascript-quiz-con-zustand/public/data.json
+
+this is one of this projects: https://www.javascript100.dev/
+
+and the original midu's project: https://github.com/midudev/preguntas-entrevista-react
+
+## how to run it
+
+`pnpm run dev`
+
+## additional notes.
+
+don't forget to try (as midu explians in the referenced video) the Redux develoer tools that also work for zustand. (see minute 01:31:07). And also (a bit before), how to write middleware for zustand.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
